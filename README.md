@@ -14,11 +14,13 @@
 - 并发与多线程
   - [线程安全](https://github.com/fly2022/JavaInterview/blob/master/docs/concurrent/%E7%BA%BF%E7%A8%8B%E5%AE%89%E5%85%A8.md)
 - 数据库
+  - [jdbc](https://github.com/fly2022/JavaInterview/blob/master/docs/mysql/JDBC.md)
+    - [面试题](https://github.com/fly2022/JavaInterview/edit/master/docs/mysql/JDBC%20%E5%B8%B8%E8%A7%81%E9%9D%A2%E8%AF%95%E9%A2%98.md)
   - [mysql](https://github.com/fly2022/JavaInterview/blob/master/docs/%E6%95%B0%E6%8D%AE%E5%BA%93/mysql.md)
 - 常用框架
   - [mybatis](https://github.com/fly2022/JavaInterview/blob/master/docs/%E6%95%B0%E6%8D%AE%E5%BA%93/mysql.md)
-    - [面试题]
+    - [面试题](https://github.com/fly2022/JavaInterview/blob/master/docs/%E6%95%B0%E6%8D%AE%E5%BA%93/mysql.md)
   - [spring](https://github.com/fly2022/JavaInterview/blob/master/docs/%E6%95%B0%E6%8D%AE%E5%BA%93/mysql.md)
-    - [面试题]
+    - [面试题](https://github.com/fly2022/JavaInterview/blob/master/docs/%E6%95%B0%E6%8D%AE%E5%BA%93/mysql.md)
 - 常用工具
   - [Git](https://github.com/fly2022/JavaInterview/blob/master/docs/tools/git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md)
