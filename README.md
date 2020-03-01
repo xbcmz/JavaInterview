@@ -2,7 +2,7 @@
 
 - 计算机基础
   - [移位运算](https://github.com/fly2022/JavaInterview/blob/master/docs/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E7%A7%BB%E4%BD%8D%E8%BF%90%E7%AE%97.md)
-  - [补码](https://github.com/fly2022/JavaInterview/blob/master/docs/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/%E8%A1%A5%E7%A0%81.md)
+  - [补码](https://github.com/fly2022/JavaInterview/blob/master/docs/JavaFoundation/%E8%A1%A5%E7%A0%81.md)
 - 面向对象
 - 走进JVM
 - 异常与日志
@@ -12,7 +12,11 @@
   - [数据结构](https://github.com/fly2022/JavaInterview/blob/master/docs/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/TCP%E4%B8%8EIP.md)
   - [集合](https://github.com/fly2022/JavaInterview/blob/master/docs/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/TCP%E4%B8%8EIP.md)
 - 并发与多线程
-  - [线程安全](https://github.com/fly2022/JavaInterview/blob/master/docs/concurrent/%E7%BA%BF%E7%A8%8B%E5%AE%89%E5%85%A8.md)
+  - [线程的概念](https://github.com/fly2022/JavaInterview/blob/master/docs/concurrent/%E5%A4%9A%E7%BA%BF%E7%A8%8B.md)
+  - [锁的分类](https://github.com/fly2022/JavaInterview/blob/master/docs/concurrent/%E9%94%81%E7%9A%84%E5%88%86%E7%B1%BB.md)
+  - [volatile关键字](https://github.com/fly2022/JavaInterview/blob/master/docs/concurrent/volatile%E5%85%B3%E9%94%AE%E5%AD%97.md)
+  - [面试题]
+    - [A1B2C3](https://github.com/fly2022/JavaInterview/blob/master/docs/concurrent/Z-%E9%9D%A2%E8%AF%95%E9%A2%98%EF%BC%9A1A2B3C.md)
 - 数据库
   - [jdbc](https://github.com/fly2022/JavaInterview/blob/master/docs/mysql/JDBC.md)
     - [面试题](https://github.com/fly2022/JavaInterview/edit/master/docs/mysql/JDBC%20%E5%B8%B8%E8%A7%81%E9%9D%A2%E8%AF%95%E9%A2%98.md)
