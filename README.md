@@ -8,6 +8,8 @@
   - [类](https://github.com/fly2022/JavaInterview/blob/master/docs/JavaFoundation/%E8%A1%A5%E7%A0%81.md)
   - [方法](https://github.com/fly2022/JavaInterview/blob/master/docs/JavaFoundation/%E8%A1%A5%E7%A0%81.md)
 - 走进JVM
+  - [类加载过程](https://github.com/fly2022/JavaInterview/blob/master/docs/JavaFoundation/%E8%A1%A5%E7%A0%81.md)
+  - [对象实例化](https://github.com/fly2022/JavaInterview/blob/master/docs/JavaFoundation/%E8%A1%A5%E7%A0%81.md)
 - 异常与日志
   - [异常分类](https://github.com/fly2022/JavaInterview/blob/master/docs/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/TCP%E4%B8%8EIP.md)
   - [日志](https://github.com/fly2022/JavaInterview/blob/master/docs/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/TCP%E4%B8%8EIP.md)
