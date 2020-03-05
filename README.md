@@ -11,7 +11,7 @@
   - [类加载过程](https://github.com/fly2022/JavaInterview/blob/master/docs/JavaFoundation/%E8%A1%A5%E7%A0%81.md)
   - [对象实例化](https://github.com/fly2022/JavaInterview/blob/master/docs/JavaFoundation/%E8%A1%A5%E7%A0%81.md)
 - 异常与日志
-  - [异常分类](https://github.com/fly2022/JavaInterview/blob/master/docs/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/TCP%E4%B8%8EIP.md)
+  - [异常分类](https://github.com/fly2022/JavaInterview/blob/master/docs/exception/java%E9%9D%A2%E8%AF%95%E5%B8%B8%E8%A7%81%E5%BC%82%E5%B8%B8%E9%97%AE%E9%A2%98.md)
   - [日志](https://github.com/fly2022/JavaInterview/blob/master/docs/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/TCP%E4%B8%8EIP.md)
 - 数据结构与集合
   - [数据结构](https://github.com/fly2022/JavaInterview/blob/master/docs/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/TCP%E4%B8%8EIP.md)
