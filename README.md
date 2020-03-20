@@ -33,4 +33,4 @@
     - [面试题](https://github.com/fly2022/JavaInterview/blob/master/docs/%E6%95%B0%E6%8D%AE%E5%BA%93/mysql.md)
 - 常用工具
   - [Git](https://github.com/fly2022/JavaInterview/blob/master/docs/tools/git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4.md)
-- 面试脑图(https://naotu.baidu.com/file/246cbf2464a8fee1ab7f9bcb851dab9d)
+- [面试脑图](https://naotu.baidu.com/file/246cbf2464a8fee1ab7f9bcb851dab9d)
