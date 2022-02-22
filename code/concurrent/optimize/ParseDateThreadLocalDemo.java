@@ -1,4 +1,4 @@
-package com.java.code.optimize;
+package optimize;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;

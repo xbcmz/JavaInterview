@@ -1,4 +1,4 @@
-package com.java.code.threadPool;
+package threadPool;
 
 /**
  * @description:

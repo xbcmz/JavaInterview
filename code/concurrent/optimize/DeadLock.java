@@ -1,4 +1,4 @@
-package com.java.code.optimize;
+package optimize;
 
 public class DeadLock extends Thread {
     protected Object tool;

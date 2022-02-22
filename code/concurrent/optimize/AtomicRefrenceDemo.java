@@ -1,4 +1,4 @@
-package com.java.code.optimize;
+package optimize;
 
 import java.util.concurrent.atomic.AtomicReference;
 

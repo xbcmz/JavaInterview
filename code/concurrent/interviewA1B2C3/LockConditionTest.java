@@ -1,4 +1,4 @@
-package com.java.code.interviewA1B2C3;
+package interviewA1B2C3;
 
 import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;

@@ -1,4 +1,4 @@
-package com.java.code.jdk;
+package jdk;
 
 import java.util.Random;
 import java.util.concurrent.locks.Lock;

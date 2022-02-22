@@ -1,4 +1,4 @@
-package com.java.code.optimize;
+package optimize;
 
 import java.util.Random;
 import java.util.concurrent.*;

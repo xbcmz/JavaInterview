@@ -1,4 +1,4 @@
-package com.java.code.jdk;
+package jdk;
 
 import java.util.concurrent.SynchronousQueue;
 import java.util.concurrent.ThreadPoolExecutor;

@@ -1,4 +1,4 @@
-package com.java.code.interviewA1B2C3;
+package interviewA1B2C3;
 
 /**
  * 面试题：两个线程，一个输出字母，一个输出数字，交替输出1A2B3C4D...26Z
